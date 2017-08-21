@@ -1,0 +1,22 @@
+{
+  "name": "simpleAPI.js",
+  "version": "1.0.0",
+  "description": "simple API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maowenxin/simpleAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maowenxin/simpleAPI/issues"
+  },
+  "homepage": "https://github.com/maowenxin/simpleAPI#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
